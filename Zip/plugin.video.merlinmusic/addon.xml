@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.merlinmusic" name="[COLOR yellow]Merlin[/COLOR][COLOR green][I]Music[/I][/COLOR]" version="1.0.7" provider-name="Merlin">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="merlin.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Compilation Of Youtube Playlists</summary>
+    <description lang="en">These Playlists Do Not Contain Any Media That I Have Uploaded/Produced, However All Are Freely Available On Youtube! Merlin Takes No Credit Or Liability For These Streams, Credits To The Real Authors Of The Videos Used Also Bromix And Jesus For The Backbone! I Only Provide Links To Playlists And Add Menu Items :)</description>
+	<disclaimer lang="en">Sorry Renegades And ColdKeys This Shit Aint Yours Either!</disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>

@@ -1,0 +1,12 @@
+[B]1.0.5[/B]
+- Fit to changes in website.
+[B]1.0.4[/B]
+- Website moved to a new URL
+- Maintenance
+[B]1.0.3[/B]
+- Fit to changes in website.
+[B]1.0.2[/B]
+- Fix for not playing some videos.
+- Fix for display names for some videos.
+[B]1.0.1[/B]
+- Initial release.

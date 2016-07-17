@@ -1,0 +1,29 @@
+[B][COLOR red]CURRENT VERSION 0.0.3[/COLOR][/B]
+
+[COLOR white]Required Addons need to be installed for [COLOR red]E[/COLOR]v[COLOR white]olve to run smoothly....[/COLOR]
+[B][COLOR red]F4M Tester (2.2.4)[/COLOR][/B]
+[B][COLOR red]Sportsdevil Latest Version[/COLOR][/B]
+[B][COLOR red]Youtube (5.2.2)[/COLOR][/B]
+
+[COLOR white]Please check your ISP Settings to avoid links failing as this is a priority.[/COLOR]
+ 
+[COLOR white]Some links might need more than one click[/COLOR]
+
+[COLOR yellow]If you are encountering any issues please contact one of the team on Twitter[/COLOR] @Goliath_Evolve @Trapper_Evolve @Val_Evolve @Slim_Evolve @Kraken_Evolve @AbeEvolve @Parnell_Evolve @MONEYSPORTZ @ChrisChromex @Markov_Evolve 
+
+[B][COLOR red]Some links may not work currently due to problems with URL RESOLVER , This should be fixed SOON.[/COLOR][/B]
+
+
+Recent Changelog 05/06/16 ....
+
+*minor code change to fix multilinks
+
+
+Changelog 04/06/16
+* Search  
+* multi links updated to include Naming 
+* YouTube playlists updated to include imaging
+* Minor Code Changes
+
+
+

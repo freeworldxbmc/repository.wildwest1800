@@ -1,0 +1,28 @@
+[B]Version 0.5.0[/B]
+- new fanart and icon
+- fixed search
+- code clean up
+
+[B]Version 0.4.8[/B]
+- new fanart
+
+[B]Version 0.4.7[/B]
+- new fanart
+
+[B]Version 0.4.6[/B]
+- Kodi Helix 14 ready all thanks go out to Poegloom for the fix
+
+[B]Version 0.4.5[/B]
+- code clean up
+
+[B]Version 0.4.4[/B]
+- code clean up
+
+[B]Version 0.4.2[/B]
+- clean up
+
+[B]Version 0.4.1[/B]
+- clean up
+
+[B]Version 0.4.0[/B]
+- Initial version of releaseBB plugin

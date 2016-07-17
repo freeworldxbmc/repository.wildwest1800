@@ -1,0 +1,12 @@
+0.0.1
+9/24/2015 - Initial first beta release
+
+0.0.4
+9/25/2015   Fixed several issues with playback
+            Added By Year
+            Added Descriptions in Movie Page
+            Added Color
+
+0.0.5
+9/25/2015   Added null check before adding a list item
+            Changed color of featured

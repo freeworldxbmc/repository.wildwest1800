@@ -1,0 +1,10 @@
+========================
+1.0.1
+========================
++ Added a simple search function
++ Added support for embdeded DailyMotion links
+
+========================
+1.0.0
+========================
++ Initial release

@@ -1,0 +1,39 @@
+[B]3.1.2[/B]
+Improved regex support
+Updated scrapers
+
+[B]3.1.1[/B]
+Addded image support
+Updated scrapers
+
+[B]3.0.9[/B]
+Updated scrapers
+
+[B]3.0.8[/B]
+Fixed resolving issues
+
+[B]3.0.7[/B]
+Fixed cartoons
+
+[B]3.0.6[/B]
+Updated scrapers
+
+[B]3.0.5[/B]
+Updated indexers
+Updated scrapers
+
+[B]3.0.4[/B]
+Updated scrapers
+
+[B]3.0.3[/B]
+Updated scrapers
+
+[B]3.0.2[/B]
+Updated scrapers
+
+[B]3.0.1[/B]
+Updated scrapers
+Updated indexers
+
+[B]3.0.0[/B]
+Re-work of the addon

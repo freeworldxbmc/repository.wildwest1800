@@ -1,0 +1,19 @@
+------------------------
+Movse v1.0.2 (18 Jun-16)
+------------------------
+
+- Fixed issues with downloads
+- Added movie trailers
+
+------------------------
+Movse v1.0.1 (01 Jun-16)
+------------------------
+
+- Sort mirror list
+- Fix for Autoplay
+
+------------------------
+Movse v1.0.0 (31 May-16)
+------------------------
+
+- Initial version

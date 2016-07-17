@@ -1,0 +1,10 @@
+############################################################
+
+- v1.0.0
+
+- Initial Release
+
+############################################################
+- Special Thanks Go Out To @McWaine For Spending The Time To 
+- Create The Icons For Each Individual Section.
+############################################################

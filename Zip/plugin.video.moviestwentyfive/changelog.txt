@@ -1,0 +1,19 @@
+v0.1 - initial beta version
+v0.2 - added notification for no urlresolver link instead of script error
+v0.3 - updated download funtion to include file size
+v0.4 - Added TV section, KID Mode and new artwork
+v0.5 - Kid Mode updates
+v0.6 - fixed subtitles for Tv Shows
+v0.7 - Gotham Ready
+v0.8 - Fixed Featured Section
+v0.9 - Added Quality Flag
+v0.10 - Fixed TV section and created change url in settings
+v0.11 - Fixed lots of errors getting working again
+v0.12 - Added URL redirect check
+v0.13 - Fixed redirect check
+v0.14 - Fixed code error
+v0.15 - Added hidden keyboard input
+v0.16 - Added decode rutine to decode TV show url
+v0.17 - Fixed more TV code and added watchseries login to track your shows
+v0.18 - Fixed commmon cache to make favorites work again
+v0.19 - Fixed code for site change
